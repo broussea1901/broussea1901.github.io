@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Grayscale Theme on BRCI consulting</title>
+    <title>BRCI on BRCI consulting</title>
     <link>https://broussea1901.github.io/</link>
-    <description>Recent content in Hugo Grayscale Theme on BRCI consulting</description>
+    <description>Recent content in BRCI on BRCI consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>contact@brci.fr (BRCI)</managingEditor>
     <webMaster>contact@brci.fr (BRCI)</webMaster>
-    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://broussea1901.github.io/index.xml" rel="self" type="application/rss+xml" />
     
